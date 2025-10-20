@@ -44,5 +44,5 @@ if __name__ == "__main__":
 
     print("\nTim kiem sinh vien theo ten 'Dung':")
     search_student("Dung")
-if __name__ == "__main__":
-    print("Chương trình quản lý sinh viên đang chạy...")
+
+    print("\nChương trình quản lý sinh viên đang chạy...")
